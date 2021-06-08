@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a freelance **Flutter** and **Web** developer.
+- 🔭 I’m a freelance **Flutter,** **Web** and **Software** developer.
 
-- 📫 How to reach me: _rishikeshshede@gmail.com_
+- 📫 Reach me at _rishikeshshede@gmail.com_
 
