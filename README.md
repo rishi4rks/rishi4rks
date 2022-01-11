@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a **Flutter,** **Web** and **Software** developer.
+- 🔭 I’m a Full-Stack **Flutter,** **Web** and **Software** developer.
 
-- 📫 Reach me at _rishikeshshede@gmail.com_
+- 📫 Reach me at _rishiwebofficial@gmail.com_
 
